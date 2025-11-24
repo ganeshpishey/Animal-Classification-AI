@@ -10,21 +10,17 @@ A deep learning model capable of classifying animals into 90 categories (e.g., P
 
 ## 🛠️ Installation & Usage
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/ganeshpishey/Animal-Classification-AI.git](https://github.com/ganeshpishey/Animal-Classification-AI.git)
-Install dependencies:
+Run the following commands in your terminal to set up and run the project:
 
-Bash
+```bash
+# 1. Clone the repository
+git clone [https://github.com/ganeshpishey/Animal-Classification-AI.git](https://github.com/ganeshpishey/Animal-Classification-AI.git)
 
+# 2. Enter the folder
+cd Animal-Classification-AI
+
+# 3. Install dependencies
 pip install -r requirements.txt
-Run the notebook:
 
-Bash
-
+# 4. Run the notebook
 jupyter notebook Animal_Classification.ipynb
-⚠️ Important Note
-This project uses kagglehub to automatically download the dataset (approx 650MB). Ensure you have a stable internet connection when running the code for the first time.
-
-📜 License
-This project is licensed under the MIT License.
