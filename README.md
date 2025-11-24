@@ -14,7 +14,7 @@ Run the following commands in your terminal to set up and run the project:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/ganeshpishey/Animal-Classification-AI.git](https://github.com/ganeshpishey/Animal-Classification-AI.git)
+git clone https://github.com/ganeshpishey/Animal-Classification-AI.git(https://github.com/ganeshpishey/Animal-Classification-AI.git)
 
 # 2. Enter the folder
 cd Animal-Classification-AI
